@@ -53,5 +53,7 @@ int main()
 	// for (int i = 0; i < 10; i++)
 	// 	std::cout << "after: puppy2: " << puppy2.getBrain().getIdea(i) << std::endl;
 	// delete new_dog;
+
+	// system("leaks -q I_don’t_want_to_set_the_world_on_fire");
 	return 0;
 }
